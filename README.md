@@ -1,5 +1,4 @@
-# 引用源
-https://github.com/ysc/APDPlat
+## 引用源   https://github.com/ysc/APDPlat
 
 
 [APDPlat快速体验](https://github.com/ysc/APDPlat/wiki)
